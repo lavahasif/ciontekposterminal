@@ -1,0 +1,4 @@
+include ':zxing-core-3.3.0'
+include ':CS10-C-SDK-RemoveZxing'
+include ':app'
+rootProject.name = "ciontekposterminal"
